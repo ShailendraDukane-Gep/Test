@@ -3,7 +3,6 @@ using System.Threading.Tasks;
 
 namespace demo1
 {
-	//Test2 is under progress
     public class ApplicationHub : Hub
      { 
          public Task Send(string message){
